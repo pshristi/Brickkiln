@@ -380,8 +380,9 @@ This is a learning project. If you'd like to enhance it:
 - Absolute layout usage (not responsive)
 
 ## 👤 Maintainer
-Shristi Pathak
-LinkedIn: https://www.linkedin.com/in/shristi-p-483a4612a/
+
+**Shristi Pathak**
+- LinkedIn: [@shristi-pathak](https://www.linkedin.com/in/shristi-pathak/)
 
 ---
 
