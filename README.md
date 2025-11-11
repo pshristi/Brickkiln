@@ -380,9 +380,9 @@ This is a learning project. If you'd like to enhance it:
 - Absolute layout usage (not responsive)
 
 ## 👤 Maintainer
-
 **Shristi Pathak**
-- LinkedIn: [@shristi-pathak](https://www.linkedin.com/in/shristi-pathak/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shristi-pathak)
 
 ---
 
