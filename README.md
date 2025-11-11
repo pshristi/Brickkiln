@@ -278,34 +278,34 @@ cd bin && java management.ui.login.Factory
 
 1. After logging in, you'll see the Owner Section with options for:
    - **Work Details**
-    - View all operations
-    - Access all modules
+      - View all operations
+      - Access all modules
    - **Manager Management**
-    - Add managers
-    - View managers
-    - Delete managers
+      - Add managers
+      - View managers
+      - Delete managers
 
 ### For Managers
 
 1. After logging in, access various management modules:
    - **Employees**: Employee Management
-    - Add/View/Delete employees
-    - Department organization
-    - Work records
+      - Add/View/Delete employees
+      - Department organization
+      - Work records
    - **Customers**: Handle customer relationships
-    - Add/View/Delete customers
-    - Track transactions
-    - Money deposits
+      - Add/View/Delete customers
+      - Track transactions
+      - Money deposits
    - **Production**: Track manufacturing
-    - Add production records
-    - View production history
-    - Product management
+      - Add production records
+      - View production history
+      - Product management
    - **Sales**: Sales Management
-    - Record sales
-    - View sales history
+      - Record sales
+      - View sales history
    - **Expenditure**: Monitor expenses
-    - Record expenses
-    - View expenditure reports
+      - Record expenses
+      - View expenditure reports
 
 ## 📋 Navigation Flow
 
